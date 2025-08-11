@@ -18,7 +18,7 @@ Smooth UI interactions built with React
 
 Frontend: React.js (Functional components + hooks)
 
-Styling: CSS3 (or Tailwind CSS if you prefer — update accordingly)
+Styling:  Tailwind CSS 
 
 Icons: react-icons
 
