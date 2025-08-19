@@ -23,5 +23,4 @@ Styling:  Tailwind CSS
 Icons: react-icons
 
 
-![Homepage](./assets/screenshots/homepage.png)
-![Product Card](./assets/screenshots/product-card.png)
+
